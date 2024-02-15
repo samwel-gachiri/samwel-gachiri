@@ -18,7 +18,7 @@ I'm a passionate Software Engineer based in Nairobi, Kenya. I specialize in Syst
 ## Skills
 
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![image](https://github.com/samwel-gachiri/samwel-gachiri/assets/107980554/57c00bcc-6fd8-4096-8d0c-891e82d8e7f9)
-![scenebuilder](https://github.com/samwel-gachiri/samwel-gachiri/assets/107980554/59c70804-613e-4e72-8d44-ca5cf162008b) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JS](https://img.icons8.com/color/48/000000/javascript.png) ![ReactJS](https://img.icons8.com/color/48/000000/react-native.png) ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png) ![SpringBoot](https://img.icons8.com/color/48/000000/spring-logo.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+![scenebuilder](https://github.com/samwel-gachiri/samwel-gachiri/assets/107980554/59c70804-613e-4e72-8d44-ca5cf162008b) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JS](https://img.icons8.com/color/48/000000/javascript.png) ![React JS](https://github.com/samwel-gachiri/samwel-gachiri/assets/107980554/1608606a-7e38-417e-b4fa-442bb50cab10)![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png) ![SpringBoot](https://img.icons8.com/color/48/000000/spring-logo.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
 
 ## Let's Connect
 
