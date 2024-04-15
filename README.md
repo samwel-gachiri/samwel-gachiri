@@ -30,18 +30,15 @@ Explore my repos and feel free to reach out for questions or collaboration ideas
 # school-project
 This is my repository for storing data and giving versions to my codes to bring in organization of my data.
 The project is divided into the following modules:
-1. Main school
+## 1. Main school
   This is generally the parent program for all the programs
-  ![image](https://user-images.githubusercontent.com/107980554/229723015-9ef05af4-f5a4-4c34-a729-ea8be955302b.png)
-2. Printing
-  This performs the functionality of printing
-  ![image](https://user-images.githubusercontent.com/107980554/229723242-7efd88b1-2660-45fe-b9a7-3bb0ffe63109.png)
-  You can set the preview to your preference.
-  ![image](https://user-images.githubusercontent.com/107980554/229723450-20b50ecd-48ad-4bc7-aa20-ac8e410eca13.png)
+  ### **latest vesion**
+  - ![image](https://github.com/samwel-gachiri/school-project/assets/107980554/b4a665a5-9278-4baf-b002-c9b3612f8ebc)
+
+## 2. Printing
   A printing dialogue will help the user when printing.
   ![image](https://user-images.githubusercontent.com/107980554/229723820-0dcadd26-ce85-4165-8503-7e065c4a35fa.png)
-3. Messaging
+### 3. Messaging
   This module will be used to send messages
-  ![image](https://user-images.githubusercontent.com/107980554/229724641-ea83fcb2-4565-4ea2-9da2-de40412f8be6.png)
-
+  ![image](https://github.com/samwel-gachiri/school-project/assets/107980554/301d3539-e594-48be-b7c1-c942612d9825)
 Happy coding! 🚀
