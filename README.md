@@ -41,4 +41,6 @@ The project is divided into the following modules:
 ### 3. Messaging
   This module will be used to send messages
   ![image](https://github.com/samwel-gachiri/school-project/assets/107980554/301d3539-e594-48be-b7c1-c942612d9825)
+### 4. AUDITING with ReactJs and NodeJS
+![AUDIT - PAGE 1 ONLY_page-0001](https://github.com/samwel-gachiri/school-project/assets/107980554/15d97baa-a432-4b45-a384-327da437e116)
 Happy coding! 🚀
