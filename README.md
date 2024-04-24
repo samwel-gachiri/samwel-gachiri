@@ -27,6 +27,10 @@ I'm a passionate Software Engineer based in Nairobi, Kenya. I specialize in Syst
 - 🐦 Twitter: [@Samuel_Gachiri_](https://twitter.com/Samuel_Gachiri_)
 
 Explore my repos and feel free to reach out for questions or collaboration ideas!
+
+# 1. Petrol station system
+![image](https://github.com/samwel-gachiri/samwel-gachiri/assets/107980554/be4fffb8-6e73-421d-9c17-c2f1e26e2333)
+![image](https://github.com/samwel-gachiri/samwel-gachiri/assets/107980554/1d511df6-a399-4520-b593-e3eabc11cace)
 # school-project
 This is my repository for storing data and giving versions to my codes to bring in organization of my data.
 The project is divided into the following modules:
