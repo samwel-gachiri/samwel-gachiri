@@ -12,8 +12,8 @@ Currently building **AgriBackup**: The Sovereign Compliance Oracle (SCO) for Afr
 - **Frontend & Deployment:** Vue.js, React, Scalable Enterprise UI/UX
 
 ## Recent Deployments
-- **AgriBackup Governance Risk and Compliance (GRC):** Engineered a stateless ETL interceptor and multi-domain GRC engine (SASRA, IFRS 9, KRA, ODPC) with deterministic Hedera DLT anchoring for the financial institutions.
-- **Sovereign Compliance Oracle (SCO):** The SCO operates as a zero-trust, cryptographically secured compliance middleware layer bridging legacy mobile money rails to decentralized networks for VASP regulations. [SCO](https://github.com/AgriBackup/sco-docs)
+- **AgriBackup Governance Risk and Compliance (GRC):** Engineered a stateless ETL interceptor and multi-domain GRC engine (SASRA, IFRS 9, KRA, ODPC) with deterministic Hedera DLT anchoring for financial institutions.
+- **Sovereign Compliance Oracle (SCO):** Operates as a zero-trust, cryptographically secured compliance middleware layer bridging legacy mobile money rails to decentralized networks for VASP regulations. | [SCO Documentation](https://github.com/AgriBackup/sco-docs) | [Enterprise API](https://agribackup.gitbook.io/sco-enterprise-api) |
 - **Climate Witness Chain (1st Place - AGI + MeTTa Hackathon):** Architected a self-modifying decentralized system using MeTTa programming language, spatial Euclidean algorithms, and Solidity smart contracts for automated climate insurance payouts.
 
 ## Connect
