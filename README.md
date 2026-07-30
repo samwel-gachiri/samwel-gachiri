@@ -1,48 +1,21 @@
-# 👋 Hey, I'm Samwel Gachiri!
+# Samwel Gachiri | Lead Systems Architect
 
-## About Me
-I'm a passionate Software Engineer based in Nairobi, Kenya. I specialize in Systems development, and I love to work on building big softwares.
+## Architecture & Focus
+I engineer high-velocity, decentralized data pipelines and automated compliance middleware for Tier-1 financial institutions. My architecture focuses on Zero-Knowledge environments, Distributed Ledger Technology (DLT), and Agentic AI orchestration to neutralize enterprise regulatory friction.
 
-💼 Currently working on a Petrol Station management system contract.
-🌱 I'm constantly learning and exploring new technologies.
+Currently building **AgriBackup**: The Sovereign Compliance Oracle (SCO) for African Saccos and VASPs.
 
-## My GitHub Stats
+## Core Engineering Competencies
+- **Ledger & Cryptography:** Hedera Mainnet Integration, Solidity, Smart Contract Architecture
+- **AI & Logic:** Agentic Pipelines, MeTTa (AGI Reasoning), Cross-Domain Ontology Mapping
+- **Backend & Data:** Redis, Native SQL Optimization, Node.js, SpringBoot, Asynchronous Ingestion Engines
+- **Frontend & Deployment:** Vue.js, React, Scalable Enterprise UI/UX
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samwel-gachiri&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+## Recent Deployments
+- **AgriBackup Governance Risk and Compliance (GRC):** Engineered a stateless ETL interceptor and multi-domain GRC engine (SASRA, IFRS 9, KRA, ODPC) with deterministic Hedera DLT anchoring for the financial institutions.
+- **Sovereign Compliance Oracle (SCO):** The SCO operates as a zero-trust, cryptographically secured compliance middleware layer bridging legacy mobile money rails to decentralized networks for VASP regulations. [SCO](https://github.com/AgriBackup/sco-docs)
+- **Climate Witness Chain (1st Place - AGI + MeTTa Hackathon):** Architected a self-modifying decentralized system using MeTTa programming language, spatial Euclidean algorithms, and Solidity smart contracts for automated climate insurance payouts.
 
-## Featured Projects
-
-- [Petrol Sales System](https://github.com/samwel-gachiri/petrol-sales-system): Revolutionizing petrol station management.
-- [School Management](https://github.com/samwel-gachiri/school-project): Modern software for educational institutions.
-
-## Skills
-
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![image](https://github.com/samwel-gachiri/samwel-gachiri/assets/107980554/57c00bcc-6fd8-4096-8d0c-891e82d8e7f9)
-![scenebuilder](https://github.com/samwel-gachiri/samwel-gachiri/assets/107980554/59c70804-613e-4e72-8d44-ca5cf162008b) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JS](https://img.icons8.com/color/48/000000/javascript.png) ![React JS](https://github.com/samwel-gachiri/samwel-gachiri/assets/107980554/1608606a-7e38-417e-b4fa-442bb50cab10)![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png) ![SpringBoot](https://img.icons8.com/color/48/000000/spring-logo.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
-
-## Let's Connect
-
-- 📧 Email: [samgachiri2002@gmail.com](mailto:samgachiri2002@gmail.com)
-- 💬 LinkedIn: [Gachiri Samuel](https://www.linkedin.com/in/gachiri-samuel-a52258248)
-- 🐦 Twitter: [@Samuel_Gachiri_](https://twitter.com/Samuel_Gachiri_)
-
-Explore my repos and feel free to reach out for questions or collaboration ideas!
-
-# 1. Petrol station system
-![image](https://github.com/samwel-gachiri/samwel-gachiri/assets/107980554/be4fffb8-6e73-421d-9c17-c2f1e26e2333)
-![image](https://github.com/samwel-gachiri/samwel-gachiri/assets/107980554/1d511df6-a399-4520-b593-e3eabc11cace)
-# school-project
-This is my repository for storing data and giving versions to my codes to bring in organization of my data.
-The project is divided into the following modules:
-## 1. Main school
-  This is generally the parent program for all the programs
-  ### **latest vesion**
-  - ![image](https://github.com/samwel-gachiri/school-project/assets/107980554/b4a665a5-9278-4baf-b002-c9b3612f8ebc)
-
-## 2. Printing
-  A printing dialogue will help the user when printing.
-  ![image](https://user-images.githubusercontent.com/107980554/229723820-0dcadd26-ce85-4165-8503-7e065c4a35fa.png)
-### 3. Messaging
-  This module will be used to send messages
-  ![image](https://github.com/samwel-gachiri/school-project/assets/107980554/301d3539-e594-48be-b7c1-c942612d9825)
-Happy coding! 🚀
+## Connect
+- **Email:** samwel@agribackup.com
+- **LinkedIn:** [Samwel Gachiri](https://www.linkedin.com/in/samwel-nganga-a52258248)
